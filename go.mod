@@ -1,3 +1,3 @@
-module github.com/hotsum92/go-webserver
+module github.com/hotsum92/go-contents-server
 
 go 1.13
